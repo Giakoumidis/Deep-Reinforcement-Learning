@@ -96,7 +96,7 @@ Please note that the instruction bellow is for Linux enviroment and they have be
 	source ./install.sh
 	```
 
-4. Install Unity on your system. Detailed instructions [here](https://tsfoss.com/use-unity-ubuntu-17-10/).)
+4. Install Unity on your system. Detailed instructions [here](https://tsfoss.com/use-unity-ubuntu-17-10/).
 
 5. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
